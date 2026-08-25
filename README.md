@@ -3,6 +3,7 @@
 ### Welcome to our GitHub Repository ###
 
 **Extend your GeoDirectory with a versatile event manager**
+
 The Events Calendar add-on for [GeoDirectory](https://wordpress.org/plugins/geodirectory/ "Best Directory Plugin for WordPress") is a compelling way to feature events on your directory, using Custom Post Types (CPT). This events calendar plugin creates the CPT Events, by adding time and date to a standard listing. Users can now choose to list a place or an event.
 
 More information can be found at [here](https://wpgeodirectory.com/downloads/events/).
@@ -23,7 +24,7 @@ In the search field type "Events for GeoDirectory" and click Search Plugins. Onc
 
 ### Manual installation ###
 
-The manual installation method involves downloading our Events for GeoDirectory plugin and uploading it to your webserver via your favourite FTP application. The WordPress codex will tell you more [here](https://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation). 
+The manual installation method involves downloading our [Events for GeoDirectory](https://wordpress.org/plugins/events-for-geodirectory/) plugin and uploading it to your webserver via your favourite FTP application. The WordPress codex will tell you more [here](https://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation). 
 
 ### Updating ###
 
