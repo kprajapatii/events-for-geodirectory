@@ -3,7 +3,7 @@ Contributors: stiofansisland, paoltaia, ayecode
 Tags: events, calendar, event, schedule, organizer, geodirectory, event listings, events directory, event manager, events calendar
 Donate link: https://wpgeodirectory.com
 Requires at least: 6.0
-Tested up to: 7.0
+Tested up to: 7.1
 Requires PHP: 7.2
 Stable tag: 2.3.31
 License: GPLv3
@@ -61,6 +61,9 @@ The Events Calendar for GeoDirectory is a full-featured Events Locator too. Even
 
 Get your hands on all the Events Calendar for GeoDirectory premium add-ons and themes. Sign up at [wpgeodirectory.com](https://wpgeodirectory.com/downloads/membership/ "Get GeoDirectory membership.").
 
+
+== Security ==
+To report a security vulnerability, please review our [vulnerability disclosure policy](https://ayecode.io/vulnerability-disclosure-policy/).
 
 == Installation ==
 
