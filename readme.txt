@@ -5,7 +5,7 @@ Donate link: https://wpgeodirectory.com
 Requires at least: 6.0
 Tested up to: 7.1
 Requires PHP: 7.2
-Stable tag: 2.3.31
+Stable tag: 2.3.32
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -72,6 +72,9 @@ To report a security vulnerability, please review our [vulnerability disclosure 
 3. Go to WordPress Admin -> Events -> Settings and customize behaviour as needed
 
 == Changelog ==
+
+= 2.3.32 - 2026-09-02 =
+* Vulnerability Disclosure Policy (VDP) changes in the readme file - ADDED
 
 = 2.3.31 - 2026-07-08 =
 * Added option for 'last week' days in monthly recurring - ADDED
